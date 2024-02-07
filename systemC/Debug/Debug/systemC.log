@@ -1,0 +1,7 @@
+﻿  EndSelector.cpp
+  Unknown compiler version - please run the configure tests and report the results
+  main.cpp
+  Unknown compiler version - please run the configure tests and report the results
+A:\repos\systemC\systemC\main.cpp(268,13): warning C4129: 'B': unrecognized character escape sequence
+  Generating Code...
+  systemC.vcxproj -> A:\repos\systemC\Debug\systemC.exe
